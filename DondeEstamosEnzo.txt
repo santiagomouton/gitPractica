@@ -1,3 +1,5 @@
 Estamos en la aceleración de ALKEMY
 En el taller de git
 
+practicando Git
+linea santiago
